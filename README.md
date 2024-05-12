@@ -10,7 +10,7 @@ Currently in my pre-final year at IGDTUW, New Delhi, India. I bring a blend of s
 <p align="left">
  <a href="https://www.linkedin.com/in/khushi-choudhary-4b1aa3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-choudhary-4b1aa3235" height="30" width="40" /></a>
 <a href="https://twitter.com/khushiC19663536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushiC19663536" height="30" width="40" /></a>
-<a href="https://discord.gg/Tanvii#2326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tanvii" height="30" width="40" /></a>
+<a href="https://discord.gg/Khushi Choudhary#9337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Khushi" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Khushi_Ch_1107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Khushi_Ch_1107" height="30" width="40" /></a>
 </p>
 
