@@ -4,10 +4,7 @@ Currently in my pre-final year at IGDTUW, New Delhi, India. I bring a blend of s
 - 👩‍💻 Full Stack Web Developer
 - 🐍 Python Developer
 - 🔬 Researcher in ML
-
-
-https://github.com/KhushiChoudhar/KhushiChoudhar/assets/104776552/94883f50-2463-4676-b48f-0bd94a52cdbe
-
+https://tenor.com/en-GB/view/seulgi-searching-laptop-red-velvet-kang-seulgi-gif-19824796
 
 
 ## 🌐 Socials:
