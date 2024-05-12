@@ -6,6 +6,10 @@ Currently in my pre-final year at IGDTUW, New Delhi, India. I bring a blend of s
 - 🔬 Researcher in ML
 
 
+https://github.com/KhushiChoudhar/KhushiChoudhar/assets/104776552/94883f50-2463-4676-b48f-0bd94a52cdbe
+
+
+
 ## 🌐 Socials:
 <p align="left">
  <a href="https://www.linkedin.com/in/khushi-choudhary-4b1aa3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-choudhary-4b1aa3235" height="30" width="40" /></a>
