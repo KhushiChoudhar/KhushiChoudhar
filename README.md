@@ -7,6 +7,7 @@ Currently in my pre-final year at IGDTUW, New Delhi, India. I bring a blend of s
 
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 <br><br>
+
 ## 🌐 Socials:
 <p align="left">
  <a href="https://www.linkedin.com/in/khushi-choudhary-4b1aa3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-choudhary-4b1aa3235" height="30" width="40" /></a>
